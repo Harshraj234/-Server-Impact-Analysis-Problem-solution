@@ -1,5 +1,4 @@
 # -Server-Impact-Analysis-Problem-solution
-
 NPCI coding test solution for  Server Impact Analysis Problem
 Server Impact Analysis
 Problem Description:
@@ -44,4 +43,7 @@ Total impacted = 3
 0 ≤ priority\[i] ≤ 10⁹
 
 0 ≤ k ≤ 10⁹
+
+
+
 
